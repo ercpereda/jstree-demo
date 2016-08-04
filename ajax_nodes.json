@@ -1,0 +1,9 @@
+[
+	{
+		"text": "Node 1"
+	},
+	{
+		"text": "Node 2",
+		"children": true
+	}
+]
